@@ -1,0 +1,15 @@
+data/*.csv
+example_input/Zheng_PBMC_10x/*
+example_input/*.tsv
+example_input/*.h5
+figures/*.pdf
+new_m.log/*.tsv
+prova.log/*.tsv
+resources/gene_metadata/*.tsv
+resources/trained_models/*.tsv
+resources/trained_models/*.dill
+resources/training_set/*.json
+resources/training_set/*.h5
+/*.dill
+/*.tsv
+/*.gz
