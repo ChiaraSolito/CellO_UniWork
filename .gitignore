@@ -13,3 +13,8 @@ resources/training_set/*.h5
 /*.dill
 /*.tsv
 /*.gz
+filtered_feature_bc_matrix
+modellO.log
+mousedata.log
+data_pbmc
+pbmc.log
